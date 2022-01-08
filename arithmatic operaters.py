@@ -16,4 +16,4 @@ tamil,english,science = 80,70,80
 tamil+english+science
 230
 salary =50000
-tax = s
+tax = salary
