@@ -33,6 +33,35 @@ abcde
 print( alphabets[3:6])
 def
 print ( alphabets[-3:8])
+name ="henna"
+print(name[0].upper())
+H
+print (name[-1].upper())
+A
+print (name[0].upper()+name[:5]+name[-1].upper())
+HhennaA
+print (name[0].upper()+name[:4]+name[-1].upper())
+HhennA
+print (name[0].upper()+name[1:4]+name[-1].upper())
+HennA
+length (name)
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    length (name)
+NameError: name 'length' is not defined
+len .name
+Traceback (most recent call last):
+  File "<pyshell#7>", line 1, in <module>
+    len .name
+AttributeError: 'builtin_function_or_method' object has no attribute 'name'
+len (name)
+5
+name ="fiweojpgkepeka0vpdfm0ipejm'
+SyntaxError: unterminated string literal (detected at line 1)
+name ="vudomiozj0vuje9bojmj0gpkpgk bolo"
+print (name[0].upper()+name[1:len(name)4]+name[-1].upper())
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+>>> print (name[0].upper()+name[1:len(name)-1]+name[-1].upper())
 
 print ( alphabets[-3:8])
 
