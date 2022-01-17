@@ -1,14 +1,14 @@
 
         <div id="main">
-                <h1 id="title">Dr.Norman Borlaug</h1>
-                <p>THE MAN WHO SAVED A BILLION LIVES</p>
+                <h1 id="title">Itachi Uchiha</h1>
+                <p>A MEMBER OF UCHIHA </p>
              <div id="img-div">
-               <img id="image" alt="Dr.Norman Borlaug" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"/>
+               <img id="image" alt="Itachi Uchiha" src="https://c.wallhere.com/photos/dd/7c/Naruto_Shippuuden_Uchiha_Itachi_Sharingan_anime-234390.jpg!d"/>
                <br>
-                 <figurecaption>Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.
+                 <figurecaption>His special attack is sharigan. </figurecaption>
                 </div>
                <div>
-                 <h2>Here's a time line of Dr. Borlaug's life:</h2>
+                 <h2>you can itchai uchiha story:</h2>
                  <ul>
                    <li><strong>1914</strong> - Born in Cresco, Iowa </li>
                    <li> <strong>1933</strong> - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
